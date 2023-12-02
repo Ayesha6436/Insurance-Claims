@@ -1,0 +1,1 @@
+# Insurance-Claims Integrated Project is a project that utilises insurance claims data to get a well rounded explanation of cleaning data, analysing data, feature engineering & visualization of data. The file includes a Project Problem Statement, Project Landscape, Project Planning, Cleaning data, Feature Engineering, Adjusted feature engineering data & a power BI Dashboard.
